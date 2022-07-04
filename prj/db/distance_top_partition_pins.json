@@ -1,0 +1,177 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "trig",
+					"strict" : false
+				},
+				{
+					"name" : "sel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sel[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sel[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sel[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sel[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[0]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[1]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[2]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[3]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[4]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[5]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[6]",
+					"strict" : false
+				},
+				{
+					"name" : "seg[7]",
+					"strict" : false
+				},
+				{
+					"name" : "led[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led[3]",
+					"strict" : false
+				},
+				{
+					"name" : "beep",
+					"strict" : false
+				},
+				{
+					"name" : "h_sync",
+					"strict" : false
+				},
+				{
+					"name" : "v_sync",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_r[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_r[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_r[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_r[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_r[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_g[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_g[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_g[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_g[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_g[5]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_b[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_b[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_b[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_b[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rgb_b[4]",
+					"strict" : false
+				},
+				{
+					"name" : "tx_data",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "echo",
+					"strict" : false
+				},
+				{
+					"name" : "key",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

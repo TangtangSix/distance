@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/FPGAProject/EP4CE6F17C8/distance/prj/simulation/modelsim
+vdistance
+Z1 !s110 1655188143
+!i10b 1
+!s100 ]VSWjZoQcP3J5gg6T6;G02
+IcZ>]3`_CoE4FKDH8IiNN]2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1655188118
+8G:/FPGAProject/EP4CE6F17C8/distance/src/distance.v
+FG:/FPGAProject/EP4CE6F17C8/distance/src/distance.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1655188143.000000
+!s107 G:/FPGAProject/EP4CE6F17C8/distance/src/distance.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/FPGAProject/EP4CE6F17C8/distance/src|G:/FPGAProject/EP4CE6F17C8/distance/src/distance.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+G:/FPGAProject/EP4CE6F17C8/distance/src
+Z7 tCvgOpt 0
+vdistance_top
+R1
+!i10b 1
+!s100 1JUQ@Y[lz>JomZGMBKR6i3
+II0Y?GXlgmhH``aJZKa6R90
+R2
+R0
+w1655186659
+8G:/FPGAProject/EP4CE6F17C8/distance/src/distance_top.v
+FG:/FPGAProject/EP4CE6F17C8/distance/src/distance_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/FPGAProject/EP4CE6F17C8/distance/src/distance_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/FPGAProject/EP4CE6F17C8/distance/src|G:/FPGAProject/EP4CE6F17C8/distance/src/distance_top.v|
+!i113 1
+R5
+R6
+R7
+vdistance_top_tb
+Z8 !s110 1655188144
+!i10b 1
+!s100 ^13E5DozED8c=Jz=VbI7J0
+I56XC4JkT]nDRd]AAZ1hJ63
+R2
+R0
+w1655184155
+8G:/FPGAProject/EP4CE6F17C8/distance/prj/../sim/distance_top_tb.v
+FG:/FPGAProject/EP4CE6F17C8/distance/prj/../sim/distance_top_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z9 !s108 1655188144.000000
+!s107 G:/FPGAProject/EP4CE6F17C8/distance/prj/../sim/distance_top_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/FPGAProject/EP4CE6F17C8/distance/prj/../sim|G:/FPGAProject/EP4CE6F17C8/distance/prj/../sim/distance_top_tb.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+G:/FPGAProject/EP4CE6F17C8/distance/prj/../sim
+R7
+vpll
+R8
+!i10b 1
+!s100 md1Rkn165WDRJ1PPFV3dW1
+IOaT<2lFHKomh5d@eE[]fg3
+R2
+R0
+w1655171299
+8G:/FPGAProject/EP4CE6F17C8/distance/ip/pll.v
+FG:/FPGAProject/EP4CE6F17C8/distance/ip/pll.v
+L0 39
+R3
+r1
+!s85 0
+31
+R9
+!s107 G:/FPGAProject/EP4CE6F17C8/distance/ip/pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/FPGAProject/EP4CE6F17C8/distance/ip|G:/FPGAProject/EP4CE6F17C8/distance/ip/pll.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+G:/FPGAProject/EP4CE6F17C8/distance/ip
+R7
+vpll_altpll
+R8
+!i10b 1
+!s100 2=l@_k4CF0QlOKLS]a3g73
+I<o^aCCD3d;cNU>NgdC;eA2
+R2
+R0
+w1655174395
+8G:/FPGAProject/EP4CE6F17C8/distance/prj/db/pll_altpll.v
+FG:/FPGAProject/EP4CE6F17C8/distance/prj/db/pll_altpll.v
+L0 29
+R3
+r1
+!s85 0
+31
+R9
+!s107 G:/FPGAProject/EP4CE6F17C8/distance/prj/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/FPGAProject/EP4CE6F17C8/distance/prj/db|G:/FPGAProject/EP4CE6F17C8/distance/prj/db/pll_altpll.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+G:/FPGAProject/EP4CE6F17C8/distance/prj/db
+R7
+vseg_drive
+R1
+!i10b 1
+!s100 zki>ZT?cUj;PHzeL;Y60d1
+IJ@lBQU`L_mU;oSmoo`Sn;0
+R2
+R0
+w1655183351
+8G:/FPGAProject/EP4CE6F17C8/distance/src/seg_drive.v
+FG:/FPGAProject/EP4CE6F17C8/distance/src/seg_drive.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/FPGAProject/EP4CE6F17C8/distance/src/seg_drive.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/FPGAProject/EP4CE6F17C8/distance/src|G:/FPGAProject/EP4CE6F17C8/distance/src/seg_drive.v|
+!i113 1
+R5
+R6
+R7
+vsel_drive
+R1
+!i10b 1
+!s100 QNOEecKhO3J^T3THLME=i1
+IVA^acMN3nMh>EaRoUZ?RU3
+R2
+R0
+w1655171726
+8G:/FPGAProject/EP4CE6F17C8/distance/src/sel_drive.v
+FG:/FPGAProject/EP4CE6F17C8/distance/src/sel_drive.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 G:/FPGAProject/EP4CE6F17C8/distance/src/sel_drive.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+G:/FPGAProject/EP4CE6F17C8/distance/src|G:/FPGAProject/EP4CE6F17C8/distance/src/sel_drive.v|
+!i113 1
+R5
+R6
+R7

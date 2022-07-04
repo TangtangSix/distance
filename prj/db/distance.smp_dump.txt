@@ -1,0 +1,17 @@
+
+State Machine - |distance_top|distance_drive:u_distance|s_current
+Name s_current.s_accept s_current.s_wait s_current.s_send s_current.s_idle s_current.s_accept_wait 
+s_current.s_idle 0 0 0 0 0 
+s_current.s_send 0 0 1 1 0 
+s_current.s_wait 0 1 0 1 0 
+s_current.s_accept 1 0 0 1 0 
+s_current.s_accept_wait 0 0 0 1 1 
+
+State Machine - |distance_top|sel_drive:u_sel_drive|current_state
+Name current_state.state5 current_state.state4 current_state.state3 current_state.state2 current_state.state1 current_state.state0 
+current_state.state0 0 0 0 0 0 0 
+current_state.state1 0 0 0 0 1 1 
+current_state.state2 0 0 0 1 0 1 
+current_state.state3 0 0 1 0 0 1 
+current_state.state4 0 1 0 0 0 1 
+current_state.state5 1 0 0 0 0 1 

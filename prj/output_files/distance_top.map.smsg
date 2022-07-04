@@ -1,0 +1,5 @@
+Warning (10268): Verilog HDL information at uart_drive.v(84): always construct contains both blocking and non-blocking assignments File: G:/FPGAProject/EP4CE6F17C8/distance/src/uart_drive.v Line: 84
+Warning (10268): Verilog HDL information at distance.dirve.v(80): always construct contains both blocking and non-blocking assignments File: G:/FPGAProject/EP4CE6F17C8/distance/src/distance.dirve.v Line: 80
+Info (10281): Verilog HDL Declaration information at vga_dirve.v(5): object "h_sync" differs only in case from object "H_SYNC" in the same scope File: G:/FPGAProject/EP4CE6F17C8/distance/src/vga_dirve.v Line: 5
+Info (10281): Verilog HDL Declaration information at vga_dirve.v(6): object "v_sync" differs only in case from object "V_SYNC" in the same scope File: G:/FPGAProject/EP4CE6F17C8/distance/src/vga_dirve.v Line: 6
+Warning (10268): Verilog HDL information at uart_rx.v(104): always construct contains both blocking and non-blocking assignments File: G:/FPGAProject/EP4CE6F17C8/distance/src/uart_rx.v Line: 104
